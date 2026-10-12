@@ -136,7 +136,7 @@ More problems will be added regularly.
 
 ---
 
-## ⏱️ Complexity Analysis
+### ⏱️ Complexity Analysis
 
 Each solution focuses on optimizing:
 
